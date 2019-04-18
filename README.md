@@ -1,7 +1,12 @@
 # EdgeLedger Project
 A simple financial related website made by following a course
 # Navbar
-1. Navbar created using flexbox
-2. Used rem units for padding
-3. created header and styled it 
-# Git Test Desktop
+* Navbar created using flexbox
+* Used rem units for padding
+# Header
+* Created header and styled it 
+# Section: What We Do 
+* Created '*What We Do*' Section and styled it
+* Used Flexbox
+* Used Font-Awesome Icons
+* Added Some More Utility Classes
