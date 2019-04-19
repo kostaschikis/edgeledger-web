@@ -10,7 +10,7 @@ A simple financial related website made by following a course
 * Used Flexbox
 * Used Font-Awesome Icons
 * Added Some More Utility Classes
-#Section: Who We Are
+# Section: Who We Are
 * Created it and styled it
-#Section: Clients
+# Section: Clients
 * Created it and styled it
