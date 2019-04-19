@@ -14,3 +14,7 @@ A simple financial related website made by following a course
 * Created it and styled it
 # Section: Clients
 * Created it and styled it
+# Section: Contact & Footer
+* Contact form and footer done
+# Google Map 
+* Map display created with javascript using google's API 
