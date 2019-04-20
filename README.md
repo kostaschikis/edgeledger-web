@@ -18,3 +18,9 @@ A simple financial related website made by following a course
 * Contact form and footer done
 # Google Map 
 * Map display created with javascript using google's API 
+# smooth scrolling
+* used javascript
+# widescreen
+* edited widescreen.css
+# mobile
+* made minor additions to mobile.css
