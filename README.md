@@ -1,26 +1,26 @@
 # EdgeLedger Project
 A simple financial related website made by following a course
 # Navbar
-* Navbar created using flexbox
-* Used rem units for padding
+- [x] Navbar created using flexbox
+- [x] Used rem units for padding
 # Header
-* Created header and styled it 
+- [x] Created header and styled it 
 # Section: What We Do 
-* Created '*What We Do*' Section and styled it
-* Used Flexbox
-* Used Font-Awesome Icons
-* Added Some More Utility Classes
+- [x] Created '*What We Do*' Section and styled it
+- [x] Used Flexbox
+- [x] Used Font-Awesome Icons
+- [x] Added Some More Utility Classes
 # Section: Who We Are
-* Created it and styled it
+- [x] Created it and styled it
 # Section: Clients
-* Created it and styled it
+- [x] Created it and styled it
 # Section: Contact & Footer
-* Contact form and footer done
+- [x] Contact form and footer done
 # Google Map 
-* Map display created with javascript using google's API 
-# smooth scrolling
-* used javascript
-# widescreen
-* edited widescreen.css
-# mobile
-* made minor additions to mobile.css
+- [x] Map display created with JavaScript using google's API 
+# Smooth scrolling
+- [x] With JavaScript
+# Widescreen
+- [x] Responsive for widescreen displays
+# Mobile
+* ***its now full responsive*** :thumbsup:
