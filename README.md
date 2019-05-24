@@ -1,5 +1,6 @@
 # EdgeLedger Project
-A simple financial related website made by following a course
+A simple financial related website made by following a course <br>
+👉 [Online Demo](https://edgeledgerdemo.netlify.com/)
 # Google Map 
 - [x] Map display created with JavaScript using google's API 
 # Smooth scrolling
