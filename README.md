@@ -1,4 +1,4 @@
-# EdgeLedger Project [Demo](https://edgeledgerdemo.netlify.com/)
+# EdgeLedger Project [Demo](https://kostasxikis.github.io/EdgeLedger_Project/)
 A simple financial related website made by following a course <br> 
 # Google Map 
 - [x] Map display created with JavaScript using google's API 
